@@ -5,3 +5,6 @@ This project takes a look at a biometric classifier with keystroke dynamics. Bes
 The [data set](https://www.cs.cmu.edu/~keystroke/) consists of 51 subject each typing the password `.tie5Roanl` 400 times. The measures collected are the hold time (H), keydown-keydown time (DD) and keyup-keydown time (UD).
 
 ![tsne](tsne.png)
+
+# License 
+This project is licensed under the MIT license. See the [LICENSE](LICENSE) for details
